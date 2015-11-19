@@ -16,3 +16,9 @@ Helper plugins are:
 Need:
 - clean
 - text-replace
+
+## TO USE
+
+- Clone the repo to an empty directory
+- `npm install` to get the dependencies
+- adjust the config object inside the gulpfile.js to your projects needs.
